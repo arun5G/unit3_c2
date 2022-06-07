@@ -1,0 +1,21 @@
+
+#voucher_list{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    /* grid-template-rows: auto; */
+/* gap: 5px; */
+/* background-color: yellowgreen; */
+
+}
+
+.voucher{
+border: 1px solid;
+}
+body >h3{
+    margin-left: 299px;
+display: inline;
+margin-right: 200px;
+}
+img{
+    width: 100%;
+}

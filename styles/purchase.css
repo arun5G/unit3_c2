@@ -1,0 +1,30 @@
+*{
+    margin-left: 3px;
+}
+
+body>h3{
+    margin-left: 200px;
+    margin-bottom: 20px;
+    border: 1px solid red;
+    display: inline;
+    padding: 10px;
+    /* margin: auto; */
+}
+#purchased_vouchers{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    /* grid-template-rows: auto; */
+/* gap: 5px; */
+/* background-color: yellowgreen; */
+
+}
+/* body{ */
+    /* background-color: aqua; */
+/* } */
+.voucher{
+border: 1px solid;
+}
+img{
+    width: 100%;
+    display: block;
+}

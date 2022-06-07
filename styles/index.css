@@ -1,0 +1,32 @@
+
+
+#navbar{
+
+    display: flex;
+    background-color: bisque;
+    margin-bottom: 10px;
+}
+
+#navbar a{
+margin: 20px 0 0 300px;
+font-size: 20px;
+color: green;
+font-weight: 800;
+}
+a{
+    text-decoration: none;
+
+}
+form{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+    background-color: aqua;
+}
+input{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 5px ;
+}
